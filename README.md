@@ -12,7 +12,6 @@ UIElements
 
 *UITextView
 
-![img4](https://user-images.githubusercontent.com/85922433/125502422-7791c176-2365-4cfa-98d6-4e9b7f2b5479.png)
 *UIButton
 
 *UITableView
